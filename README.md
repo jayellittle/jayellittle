@@ -84,6 +84,7 @@ Feel free to contact me! :octocat:
 - [Subset Sum Problem](https://github.com/jayellittle/SubsetSumProblem)
 - [Knapsack Problem](https://github.com/jayellittle/KnapsackProblem)
 - [Longest Common Subsequence Problem](https://github.com/jayellittle/LongestCommonSubsequenceProblem)
+- [Levenshtein Distance Problem](https://github.com/jayellittle/LevenshteinDistance)
 
 ## Programming
 
