@@ -1,4 +1,4 @@
-# Profile
+# :page_facing_up: Profile
 
 #### :raising_hand: Who am I
 - My name is **Woo Sung Jahng (張 祐誠 / 장우성)**.
@@ -14,20 +14,20 @@ I'm graduating in *March 2026*, so I'm actively looking for jobs to become a **S
 Feel free to contact me! :octocat:
 
 #### :telephone: Contacts
-[<img src="/Assets/iCloudMail.webp" width="36">](mailto:jlittle0919@icloud.com)
-[<img src="/Assets/LinkedIn.webp" width="36">](https://www.linkedin.com/in/jlittle0919/)
-[<img src="/Assets/Github.svg" width="36">](https://github.com/jayellittle)
+[<img src="/Assets/Mail.png" width="36">](mailto:jlittle0919@icloud.com)
+[<img src="/Assets/LinkedIn.png" width="36">](https://www.linkedin.com/in/jlittle0919/)
+[<img src="/Assets/Github.png" width="36">](https://github.com/jayellittle)
 [<img src="/Assets/Instagram.png" width="36">](https://www.instagram.com/little_s0ng/)
 
 ---
 
-# Currently Studying
+# :writing_hand: Currently Studying
 
 ## Academic Subjects
 
 ### Data Structures and Algorithms
 
-#### AtCoder
+#### <img src="/Assets/AtCoder.png" width="24"> AtCoder
 
 <details>
    <summary>Details</summary>
@@ -83,15 +83,15 @@ Feel free to contact me! :octocat:
 
 ### Generative AI
 
-### Processing
+### <img src="/Assets/Processing.png" width="24"> Processing
 
-### Swift
+### <img src="/Assets/Swift.png" width="24"> Swift
 
-### Unity
+### <img src="/Assets/Unity.png" width="24"> Unity
 
 ### Web
 
-# My Projects
+# :computer: My Projects
   - Pedometer
   - Summarizer
-  - Two Bound Basketball
+  - Two-Bound Basketball
