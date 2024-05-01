@@ -30,7 +30,7 @@ Feel free to contact me! :octocat:
 #### <img src="/Assets/AtCoder.png" width="36"> AtCoder
 
 <details>
-   <summary>Details</summary>
+   <summary>List</summary>
 
    - [AtCoder Programming Guide for beginners - EX01](https://github.com/jayellittle/APG4bEX01)
    - [AtCoder Programming Guide for beginners - EX02](https://github.com/jayellittle/APG4bEX02)
@@ -76,8 +76,12 @@ Feel free to contact me! :octocat:
 </details>
 
 ### Numerical Analysis
+- [Ordinary Differential Equation](https://github.com/jayellittle/ODE)
 
 ### Optimization
+- [Subset Sum Problem](https://github.com/jayellittle/SubsetSumProblem)
+- [Knapsack Problem](https://github.com/jayellittle/KnapsackProblem)
+- [Longest Common Subsequence Problem](https://github.com/jayellittle/LongestCommonSubsequenceProblem)
 
 ## Programming
 
@@ -85,14 +89,32 @@ Feel free to contact me! :octocat:
 - [AI Poet](https://github.com/jayellittle/AIPoet)
 
 ### <img src="/Assets/Processing.png" width="36"> Processing
+- [Oscillation Simulation - With Wind](https://github.com/jayellittle/OscillationWind)
+- [Oscillation Simulation - Multi-Pendulum](https://github.com/jayellittle/OscillationMulti)
+- [Oscillation Simulation - Elastic Body](https://github.com/jayellittle/OscillationObject)
 
 ### <img src="/Assets/Swift.png" width="36"> Swift
+- [Birthdays](https://github.com/jayellittle/Birthdays)
+- [Chat Prototype](https://github.com/jayellittle/ChatPrototype)
+- [Dice Roller](https://github.com/jayellittle/DiceRoller)
+- [Friends' Favorite Movies](https://github.com/jayellittle/FriendsFavoriteMovies)
+- [Onboarding Flow](https://github.com/jayellittle/OnboardingFlow)
+- [Pick-a-pal](https://github.com/jayellittle/Pick-a-Pal)
+- [Weather Forecast](https://github.com/jayellittle/WeatherForecast)
 
 ### <img src="/Assets/Unity.png" width="36"> Unity
+- [Rollaball](https://github.com/jayellittle/Rollaball)
 
 ### Web
+- [Web1](https://github.com/jayellittle/Web1)
+
+---
 
 # :computer: My Projects
-  - Pedometer
+  - [Pedometer](https://github.com/jayellittle/Pedometer)
   - Summarizer
-  - Two-Bound Basketball
+    - [Web (Streamlit)](https://github.com/jayellittle/Summarizer-Web)
+    - [iOS](https://github.com/jayellittle/Summarizer-iOS)
+    - Android
+    - Flutter
+  - [Two-Bound Basketball](https://github.com/jayellittle/TwoBoundBasketball)
