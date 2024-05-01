@@ -3,7 +3,7 @@
 #### :raising_hand: Who am I
 - My name is **Woo Sung Jahng (張 祐誠 / 장우성)**.
 - I'm from **Republic of Korea** :kr: and I can speak **English** :us: and **Japanese** :jp: too.
-- Now, I'm living in Osaka, Japan.
+- Now I'm living in Osaka, Japan.
 
 #### :school: Education
 - I'm an undergraduate student of [**Kwansei Gakuin University** (Hyogo, Japan)](https://www.kwansei.ac.jp/index.html) :crescent_moon:
