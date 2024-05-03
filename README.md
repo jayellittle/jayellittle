@@ -55,6 +55,7 @@ Feel free to contact me! :octocat:
    - [AtCoder Beginner Contest 048 - A](https://github.com/jayellittle/ABC048A)
    - [AtCoder Beginner Contest 049 - A](https://github.com/jayellittle/ABC049A)
    - [AtCoder Beginner Contest 050 - A](https://github.com/jayellittle/ABC050A)
+   - [AtCoder Beginner Contest 061 - B](https://github.com/jayellittle/ABC061B)
    - [AtCoder Beginner Contest 062 - B](https://github.com/jayellittle/ABC062B)
    - [AtCoder Beginner Contest 073 - B](https://github.com/jayellittle/ABC073B)
    - [AtCoder Beginner Contest 074 - A](https://github.com/jayellittle/ABC074A)
