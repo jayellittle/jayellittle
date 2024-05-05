@@ -82,6 +82,15 @@ Feel free to contact me! :octocat:
    
 </details>
 
+#### <img src="/Assets/LeetCode.png" width="36"> LeetCode
+
+<details>
+   <summary>List</summary>
+
+   - [LeetCode No. 1768](https://github.com/jayellittle/LeetCode1768)
+   
+</details>
+
 ### Numerical Analysis
 - [Ordinary Differential Equation](https://github.com/jayellittle/ODE)
 
