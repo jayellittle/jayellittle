@@ -49,6 +49,8 @@ Feel free to contact me! :octocat:
    - [AtCoder Programming Guide for beginners - EX13](https://github.com/jayellittle/APG4bEX13)
    - [AtCoder Programming Guide for beginners - EX14](https://github.com/jayellittle/APG4bEX14)
    - [AtCoder Programming Guide for beginners - EX15](https://github.com/jayellittle/APG4bEX15)
+   - [AtCoder Programming Guide for beginners - EX16](https://github.com/jayellittle/APG4bEX16)
+   - [AtCoder Programming Guide for beginners - EX17](https://github.com/jayellittle/APG4bEX17)
    - [AtCoder Beginner Contest 010 - A](https://github.com/jayellittle/ABC010A)
    - [AtCoder Beginner Contest 015 - A](https://github.com/jayellittle/ABC015A)
    - [AtCoder Beginner Contest 029 - A](https://github.com/jayellittle/ABC029A)
