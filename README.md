@@ -103,6 +103,7 @@ Feel free to contact me! :octocat:
 - [Knapsack Problem](https://github.com/jayellittle/KnapsackProblem)
 - [Longest Common Subsequence Problem](https://github.com/jayellittle/LongestCommonSubsequenceProblem)
 - [Levenshtein Distance Problem](https://github.com/jayellittle/LevenshteinDistance)
+- [Merge Sort](https://github.com/jayellittle/MergeSort)
 
 ## Programming
 
