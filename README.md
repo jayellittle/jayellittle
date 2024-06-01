@@ -9,7 +9,11 @@
 - I'm an undergraduate student of [**Kwansei Gakuin University** (Hyogo, Japan)](https://www.kwansei.ac.jp/index.html) :crescent_moon:
 - I'm majoring **Program of Artifical Intelligence & Mechanical Engineering**, in *School of Engineering*
 
-I'm graduating in *March 2026*, so I'm actively looking for jobs to become a **Software Engineer**.
+#### :briefcase: Career
+- I'm working as a *Software Engineer (Intern)* in Product Division of [**LAWN**](https://lawn.co.jp/) :tennis:
+- I'm also working as a *Barista (Part-time Job)* in [**Starbucks Coffee Japan**](https://www.starbucks.co.jp/index.html) :coffee:
+
+Since my graduation is *March 2026*, I'm actively looking for jobs to become a **Software Engineer**.
 
 Feel free to contact me! :octocat:
 
