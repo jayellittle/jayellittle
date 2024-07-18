@@ -25,6 +25,8 @@ Feel free to contact me! :octocat:
 
 ---
 
+
+
 # :writing_hand: Currently Studying
 
 ## Academic Subjects
@@ -87,7 +89,7 @@ Feel free to contact me! :octocat:
    - [AtCoder Beginner Contest 089 - B](https://github.com/jayellittle/ABC089B)
    - [AtCoder Beginner Contest 090 - B](https://github.com/jayellittle/ABC090B)
    - [AtCoder Beginner Contest 091 - B](https://github.com/jayellittle/ABC091B)
-   
+
 </details>
 
 #### <img src="/Assets/LeetCode.png" width="36"> LeetCode
@@ -96,7 +98,7 @@ Feel free to contact me! :octocat:
    <summary>List</summary>
 
    - [LeetCode No. 1768](https://github.com/jayellittle/LeetCode1768)
-   
+
 </details>
 
 ### Numerical Analysis
@@ -111,15 +113,11 @@ Feel free to contact me! :octocat:
 
 ## Programming
 
-### Generative AI
+### <img src="/Assets/ChatGPT.png" width="36"> Generative AI
 - [AI Poet](https://github.com/jayellittle/AIPoet)
 
-### <img src="/Assets/Processing.png" width="36"> Processing
-- [Oscillation Simulation - With Wind](https://github.com/jayellittle/OscillationWind)
-- [Oscillation Simulation - Multi-Pendulum](https://github.com/jayellittle/OscillationMulti)
-- [Oscillation Simulation - Elastic Body](https://github.com/jayellittle/OscillationObject)
-
 ### <img src="/Assets/Swift.png" width="36"> Swift
+
 - [Birthdays](https://github.com/jayellittle/Birthdays)
 - [Chat Prototype](https://github.com/jayellittle/ChatPrototype)
 - [Dice Roller](https://github.com/jayellittle/DiceRoller)
@@ -128,11 +126,24 @@ Feel free to contact me! :octocat:
 - [Pick-a-pal](https://github.com/jayellittle/Pick-a-Pal)
 - [Weather Forecast](https://github.com/jayellittle/WeatherForecast)
 
+<img src="/Assets/Ruby.png" width="36"> Ruby
+
+- [Ruby Calculator](https://github.com/jayellittle/RubyCalculator)
+
 ### <img src="/Assets/Unity.png" width="36"> Unity
+
 - [Rollaball](https://github.com/jayellittle/Rollaball)
 
 ### Web
+
 - [Web1](https://github.com/jayellittle/Web1)
+
+### <img src="/Assets/Processing.png" width="36"> Processing
+- [Oscillation Simulation - With Wind](https://github.com/jayellittle/OscillationWind)
+- [Oscillation Simulation - Multi-Pendulum](https://github.com/jayellittle/OscillationMulti)
+- [Oscillation Simulation - Elastic Body](https://github.com/jayellittle/OscillationObject)
+
+
 
 ---
 
