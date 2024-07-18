@@ -126,7 +126,7 @@ Feel free to contact me! :octocat:
 - [Pick-a-pal](https://github.com/jayellittle/Pick-a-Pal)
 - [Weather Forecast](https://github.com/jayellittle/WeatherForecast)
 
-<img src="/Assets/Ruby.png" width="36"> Ruby
+### <img src="/Assets/Ruby.png" width="36"> Ruby
 
 - [Ruby Calculator](https://github.com/jayellittle/RubyCalculator)
 
