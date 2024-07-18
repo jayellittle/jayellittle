@@ -129,6 +129,7 @@ Feel free to contact me! :octocat:
 ### <img src="/Assets/Ruby.png" width="36"> Ruby
 
 - [Ruby Calculator](https://github.com/jayellittle/RubyCalculator)
+- [Ruby Temperature Converter](https://github.com/jayellittle/RubyTemperatureConverter)
 
 ### <img src="/Assets/Unity.png" width="36"> Unity
 
