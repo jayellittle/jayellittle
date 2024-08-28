@@ -28,7 +28,7 @@ Feel free to contact me! :octocat:
 # :computer: My Projects
   - [Instrument Tuner](https://github.com/jayellittle/instrument-tuner)
   - [Pedometer powered by M5StickC Plus](https://github.com/jayellittle/pedometer-m5stickcplus)
-  - [Two-Bound Basketball](https://github.com/jayellittle/TwoBoundBasketball)
+  - [Two-Bound Basketball](https://github.com/jayellittle/two-bound-basketball)
   - Summarizer
     - [Web](https://github.com/jayellittle/summarizer-web)
     - [iOS](https://github.com/jayellittle/summarizer-ios)
@@ -41,7 +41,7 @@ Feel free to contact me! :octocat:
 # :writing_hand: Currently Studying
 
 ### [My Documents](https://github.com/jayellittle/documents)
-  
+
 ### Data Structures and Algorithms
   - [<img src="/assets/atcoder.png" width="36"> AtCoder](https://github.com/jayellittle/atcoder)
   - [<img src="/assets/leetcode.png" width="36"> LeetCode](https://github.com/jayellittle/leetcode)
