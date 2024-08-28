@@ -47,7 +47,17 @@ Feel free to contact me! :octocat:
   - [<img src="/assets/leetcode.png" width="36"> LeetCode](https://github.com/jayellittle/leetcode)
 
 ### <img src="/assets/swift.png" width="36"> Swift
-  - [Develop in Swift](https://github.com/jayellittle/develop-in-swift)
 
-### <img src="/assets/unity.png" width="36"> Unity Learn
+#### [Develop in Swift Tutorials](https://developer.apple.com/tutorials/develop-in-swift/)
+  - [Chat Prototype](https://github.com/jayellittle/chat-prototype)
+  - [Weather Forecast](https://github.com/jayellittle/weather-forecast)
+  - [Onboarding Flow](https://github.com/jayellittle/onboarding-flow)
+  - [Dice Roller](https://github.com/jayellittle/dice-roller)
+  - [Pick-a-Pal](https://github.com/jayellittle/pick-a-pal)
+  - [Birthdays](https://github.com/jayellittle/birthdays)
+  - [Friends' Favorite Movies](https://github.com/jayellittle/friends-favorite-movies)
+
+### <img src="/assets/unity.png" width="36"> Unity
+
+#### [Unity Learn](https://learn.unity.com)
   - [Roll-a-Ball](https://github.com/jayellittle/roll-a-ball)
